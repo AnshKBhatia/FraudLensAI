@@ -14,6 +14,15 @@ Model Training and Evaluation:
 
     The script includes options for training the model using various algorithms and evaluating their performance using metrics like accuracy, precision, recall, and F1-score.
 
+
+Usage
+Input Data:
+
+    Provide the transaction data set in the specified format. The dataset should include features such as transaction amount, transaction time, and various customer details.
+    You can download the dataset from Kaggle Credit Card Fraud Dataset.
+    
+    
+
 Contributing
 
 We welcome contributions from the community. If you have suggestions for improvements or would like to report issues, please submit a pull request or open an issue on GitHub.
